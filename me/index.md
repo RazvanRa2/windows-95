@@ -3,7 +3,7 @@ layout: me
 title: me
 ---
 
-# Hello
+# Hello, World!
 
 My name's Razvan. I'm a computer engineering student, in Bucharest, Romania.
 I'm currently interning at Microsoft, as a software engineer. Funny enough,
@@ -28,11 +28,11 @@ I like sports a lot. Particularly swimming and running, at this point and I'm
 obsessed with tracking my workouts. I used to play basketball back in the day,
 but that was a long time ago.
 I like *some* super-heroes, particularly Deadpool and Spider-Man.
-I like cats. I'm a cat person.
+I like cats.
 
 ## What is this blog?
 This is the place I sometimes write about projects I’m working on.
 
 ## Contact
 Drop me an e-mail at razvanradoi97@gmail.com or you know, slide into them
-DMs @razvanra2 on instagram.
+DMs @razvanra2 on Instagram.
